@@ -80,7 +80,7 @@ GreenDen/
 
 ## 🚀 Live Demo
 
-🔗 **[View GreenDen Live Website](https://inthusha20241647-commits.github.io/)**
+🔗 **[View GreenDen Live Website]** https://inthusha20241647-commits.github.io/greeden-tailwind/
 
 ## 💻 How to Run Locally
 
