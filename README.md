@@ -1,6 +1,6 @@
 # 🌿 GreenDen – Plant Website
 
-A responsive plant website built using **HTML and Tailwind CSS**. GreenDen includes a home page, product page with search functionality, and a contact page.
+A responsive plant website built using **HTML , Tailwind CSS & JavaScript**. GreenDen includes a home page, product page with search functionality, and a contact page.
 
 ## 🌱 Features
 
